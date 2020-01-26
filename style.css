@@ -1,0 +1,159 @@
+body{
+	margin: 0;
+	background: linear-gradient(to right, #ff99cc 0%, #ffff99 100%);
+	margin: 0px,50px,0px,0px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.nav{
+	top: 0;
+	background-color: #fff;
+	background: linear-gradient(to right, #ffff99 40%, #ff00cc 100%);
+	position: fixed;
+	z-index: 1;
+}
+
+.nav-logo{
+	width: 20%;
+	margin-left: 5%;
+}
+
+.nav-menuopt{
+	display: none;
+	float: right;
+	margin: 10px 5% 0 0;
+}
+
+.nav-links{
+	width: 33%;
+	margin-top: 3%;
+	float: right;
+}
+
+.nav-links a{
+	padding: 5%;
+	margin: -1px;
+	display: inline-block;
+	text-decoration: none;
+	color: #000;
+	font-weight: bold;
+}
+
+.nav-links a.nav-active{
+	background-color: #fff;
+}
+
+.nav-links a:hover{
+	background-color: #fff;
+}
+
+.content-block{
+	width: 90%;
+	height: auto;
+	padding-top: 3%;
+	margin-top: 7%;
+	margin-left: 5%;
+	background-color: #fff;
+}
+
+.content-block-basic{
+	width: 90%;
+	height: 600px;
+	padding-top: 3%;
+	margin-top: 7%;
+	margin-left: 5%;
+	background-color: #fff;
+}
+
+.con-image{
+	width: 50%;
+	margin-left: 25%;
+}
+
+#marq{
+	font-size: 20px;
+	background: linear-gradient(to right, #ffff99 0%, #ff99cc 100%);
+	color:black;
+	margin: 20px 0px 0px 0px;
+}
+
+.photo{
+	width: 50%;
+	margin-left: 25%;
+	margin-top: 5%;
+	border-style: solid;
+	border-color: black;
+	border-width: 4px;
+}
+#para{
+	font-size: 20px;
+	font-family: sans-serif;
+	margin: 100px 0px 0px 50px;
+}
+#swacch_para{
+	font-size: 20px;
+	font-family: sans-serif;
+	margin: 40px 0px 0px 50px;
+}
+#heading1,#heading2{
+	font-weight: bold;
+	font-variant: small-caps;
+}
+#video{
+	width: 50%;
+	height: 300px;
+	margin-top: 5%;
+	margin-left: 25%;
+}
+
+.img-grid{
+	padding: 2%;
+}
+
+#gilasukha-img{
+	width: 60%;
+	margin-top: 5%;
+	margin-left: 20%;
+}
+
+.make_larger{
+	font-size: 1.5em;
+	font-weight: bold;
+}
+li:nth-child(2n+1){
+	background: #ff99cc;
+}
+li:nth-child(2n){
+	background: #ffff99;
+}
+.req{
+	color:red;
+}
+
+input{
+	margin-top: 7px;
+	margin-left:10px;
+
+}
+label{
+	margin-left: 10px;
+	font-weight: bold;
+}
+.submit{
+	margin-left:10px;
+
+}
+.options{
+	background: #ffff99;
+	margin-top: 25px;
+	padding-bottom: 15px;
+	margin-bottom: 25px;
+}
+.ques_head{
+	margin-bottom: 70px;
+	background: #ffff99;
+}
+
+#citizen-feedback{
+	display: none;
+}
