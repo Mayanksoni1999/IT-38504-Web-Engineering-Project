@@ -146,8 +146,8 @@ label{
 .options{
 	background: #ffff99;
 	margin-top: 25px;
-	padding-bottom: 15px;
 	margin-bottom: 25px;
+	padding: 15px;
 }
 .ques_head{
 	margin-bottom: 70px;

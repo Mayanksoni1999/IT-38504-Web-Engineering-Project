@@ -16,9 +16,9 @@
 				<img type="image/svg+xml" src="icons/menuopen.svg" width="25" height="25" />
 			</span>
 			<div class="nav-links">
-				<a href="index.html">Home</a>
-				<a href="feedback.html">Feedback</a>
-				<a class="nav-active" href="wastecategorization.html">Waste Management</a>
+				<a href="home_page.jsp">Home</a>
+				<a href="feedback_home_page.jsp">Feedback</a>
+				<a class="nav-active" href="wastecategorization.jsp">Waste Management</a>
 			</div>
 		</div>
 		<div class="content-block">

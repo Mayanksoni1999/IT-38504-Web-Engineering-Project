@@ -16,14 +16,15 @@
 				<img type="image/svg+xml" src="icons/menuopen.svg" width="25" height="25" />
 			</span>
 			<div class="nav-links">
-				<a class="nav-active" href="index.html">Home</a>
-				<a href="feedback.html">Feedback</a>
-				<a href="wastecategorization.html">Waste Management</a>
+				<a class="nav-active" href="home_page.jsp">Home</a>
+				<a href="feedback_home_page.jsp">Feedback</a>
+				<a href="wastecategorization.jsp">Waste Management</a>
+				
 			</div>
 		</div>
 		<div class="content-block">
 			<img class="con-image" src="images/swachhbharat.jpg"alt="Swacch Bharat Logo">
-			<marquee id="marq">Welcome To Swacch Bharat 2020. For Official website <a href="https://swachhbharatmission.gov.in/sbmcms/index.htm">Click Here</a>. For Filling the form for Swachh Survekshan <a href="feedback.html">Click Here</a>.</marquee>
+			<marquee id="marq">Welcome To Swacch Bharat 2020. For Official website <a href="https://swachhbharatmission.gov.in/sbmcms/index.htm">Click Here</a>. For Filling the form for Swachh Survekshan <a href="feedback_home_page.jsp">Click Here</a> For Live results <a href="Result.jsp">Click Here.</a>.</marquee>
 			<div class="main">
 				<img class="photo" src="https://d1whtlypfis84e.cloudfront.net/guides/wp-content/uploads/2019/07/25111005/source-zeebiz.jpg" width="700px" height="300px">
 				<img class="photo" src="https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2019/10/02/Pictures/ludhiana-participating-october-college-ludhiana-gurusar-thursday_f564f7b8-e50b-11e9-939f-ba4a7f73df5c.jpg" width="700px" height="300px">

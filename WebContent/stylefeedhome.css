@@ -1,0 +1,53 @@
+body{
+	margin: 0;
+	background: linear-gradient(to right, #ff99cc 0%, #ffff99 100%);
+	font-family: 'Roboto', sans-serif;
+}
+
+
+.content-block{
+	width: 90%;
+	height: auto;
+	padding-top: 3%;
+	margin-top: 50px;
+	margin-left: 5%;
+	background-color: #fff;
+}
+
+.content-block-basic{
+	width: 90%;
+	height: 600px;
+	padding-top: 3%;
+	margin-top: 7%;
+	margin-left: 5%;
+	background-color: #fff;
+}
+
+.req{
+	color:red;
+}
+
+input{
+	margin-top: 7px;
+	margin-left:10px;
+
+}
+label{
+	margin-left: 10px;
+	font-weight: bold;
+}
+.submit{
+	margin-left:10px;
+
+}
+.options{
+	background: #ffff99;
+	margin-top: 25px;
+	padding-bottom: 15px;
+	margin-bottom: 25px;
+}
+.ques_head{
+	margin-bottom: 70px;
+	background: #ffff99;
+}
+
