@@ -5,3 +5,6 @@
 > So, we wanted to convert this into a web interface. The advantage of doing so was also that many more questions could be included in the questionnaire.
 > We created forms and mapped each option with it's score. One additional  feature that we implemented was showing live ranking of the cities.
 > The technology used were JSP and Servlet.
+
+Visit here for quick preview of home_page
+https://htmlpreview.github.io/?https://github.com/mayanksoni431/IT-38504-Web-Engineering-Project/blob/master/WebContent/home_page.jsp
